@@ -1,1 +1,1 @@
-# DBSCAN-Clustering-Algorithms
+# DBSCAN Clustering Algorithms
